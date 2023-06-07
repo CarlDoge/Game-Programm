@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//鼠标移动视角脚本-unity
 public class MouseLook : MonoBehaviour
 {
     // Start is called before the first frame update
