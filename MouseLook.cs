@@ -1,10 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//鼠标移动视角脚本-unity 已可被使用暂无加入优化计划
+//鼠标移动视角脚本-unity 已可被使用暂无加入优化计划[在模型制作完成后添加头部细节]
 public class MouseLook : MonoBehaviour
 {
     // Start is called before the first frame update
+    
     public float mouseSensitivity = 100f;
     public Transform playerBody;
     public float xRotation = 0f;
